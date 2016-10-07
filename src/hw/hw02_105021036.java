@@ -1,6 +1,6 @@
 package hw;
 import java.util.Scanner;
-public class hw02_1050210XX {
+public class hw02_105021036 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
